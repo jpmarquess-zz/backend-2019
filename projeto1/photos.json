@@ -1,0 +1,123 @@
+{
+    "photo1": {
+        "id": "3240b6a0-735f-11e9-85e3-89eb07953880",
+        "uploader": "Joao",
+        "title": "landscape1",
+        "description": "beautifull landscape",
+        "size": 15,
+        "url": "",
+        "likes": 26,
+        "dislikes": 3,
+        "comments": [
+            "Wonderfull"
+        ],
+        "tags": [
+            "landscape",
+            "lol"
+        ]
+    },
+    "photo2": {
+        "id": "4db78170-735f-11e9-82da-21dc76b835d9",
+        "uploader": "Joao",
+        "title": "landscape2",
+        "description": "beautifull landscape",
+        "size": 10,
+        "url": "https://preview.redd.it/kdivl4q3vqx21.png?width=640&crop=smart&auto=webp&s=76877309ebb111dc61a94dc32dd2199e71ec14d2",
+        "likes": 42,
+        "dislikes": 2,
+        "comments": [
+            "Wonderfull"
+        ],
+        "tags": [
+            "lol",
+            "reddit"
+        ]
+    },
+    "photo3": {
+        "id": "64340950-735f-11e9-b6ed-2d8382b40f1e",
+        "uploader": "Antonio",
+        "title": "landscape3",
+        "description": "beautifull landscape",
+        "size": 10,
+        "url": "",
+        "likes": 28,
+        "dislikes": 2,
+        "comments": [
+            "Astonishing"
+        ],
+        "tags": [
+            "lol"
+        ]
+    },
+    "photo4": {
+        "id": "8947ae30-738d-11e9-8d8d-41dd42f88b36",
+        "uploader": "Tuier",
+        "title": "landscape5",
+        "description": "beautifull landscape",
+        "size": 15,
+        "url": "https://preview.redd.it/kdivl4q3vqx21.png?width=640&crop=smart&auto=webp&s=76877309ebb111dc61a94dc32dd2199e71ec14d2",
+        "likes": 23,
+        "dislikes": 3,
+        "comments": [
+            "Wonderfull"
+        ],
+        "tags": [
+            "lol",
+            "reddit"
+        ]
+    },
+    "photo5": {
+        "id": "65175910-738e-11e9-8a6d-39d2314c2c02",
+        "uploader": "Banana",
+        "title": "landscape5",
+        "description": "beautifull landscape",
+        "size": 15,
+        "url": "",
+        "likes": 23,
+        "dislikes": 3,
+        "comments": [
+            "Wonderfull"
+        ],
+        "tags": [
+            "lol"
+        ]
+<<<<<<< HEAD
+    },
+    "photo6": {
+        "id": "4a2e6180-755e-11e9-a2c6-c9879da2a62d",
+        "uploader": "Afonso",
+        "title": "landscape1",
+        "description": "beautifull landscape",
+        "size": 15,
+        "url": "hukwdawahukwhdawhkda",
+        "likes": 23,
+        "dislikes": 3,
+        "comments": [
+            "Wonderfull"
+        ],
+        "tags": [
+            "landscape",
+            "lol",
+            "gawygdyg"
+        ]
+    },
+    "photo7": {
+        "id": "f6283310-767d-11e9-86b8-3103b501cd0f",
+        "uploader": "Web",
+        "title": "landscape1",
+        "description": "beautifull landscape",
+        "size": 15,
+        "url": "",
+        "likes": 29,
+        "dislikes": 3,
+        "comments": [
+            "Wonderfull"
+        ],
+        "tags": [
+            "landscape",
+            "lol"
+        ]
+=======
+>>>>>>> c25b4b96a7341a6ff2a60a00721ec1e845899015
+    }
+}

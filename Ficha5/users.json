@@ -1,0 +1,23 @@
+{
+    "user1" : {
+        "firstname" : "Pedro",
+        "lastname" : "Lopes",
+        "profession" : "teacher",
+        "age" : "25",
+        "id" : 1
+    },
+    "user2" : {
+        "firstname" : "André",
+        "lastname" : "Faria",
+        "profession" : "librarian",
+        "age" : "35",
+        "id" : 2
+    },
+    "user3" : {
+        "firstname" : "Ana",
+        "lastname" : "Barras",
+        "profession" : "clerk",
+        "age" : "76",
+        "id" : 3
+    }
+}
